@@ -14,10 +14,6 @@
 }
 
 /* BONUS */
-.alignment {
-    padding: 1rem;
-}
-
 .row-bonus {
     display: flex;
     flex-wrap: wrap;
