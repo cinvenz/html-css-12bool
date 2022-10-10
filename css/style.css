@@ -1,0 +1,12 @@
+.row {
+    padding: 1rem;
+    /* background-color: cornflowerblue; */
+    border: 2px solid white;
+}
+
+[class^=col] {
+    background-color: rgba(0,108,250,255);
+    border: 2px solid white;
+    height: 40px;
+}
+
