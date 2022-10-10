@@ -13,6 +13,7 @@
     height: 80px;
 }
 
+/* BONUS */
 .alignment {
     padding: 1rem;
 }
@@ -32,4 +33,14 @@
 
 .end {
     justify-content: flex-end;
+}
+
+.middle {
+    display: flex;
+    align-items: center;
+}
+
+.bottom {
+    display: flex;
+    align-items: flex-end;
 }
