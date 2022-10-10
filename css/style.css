@@ -10,3 +10,11 @@
     height: 40px;
 }
 
+.div-green {
+    background-color: rgba(0,225,101,255);
+    border: 2px solid rgba(0,108,250,255);
+}
+
+.h-fixed {
+    height: 80px;
+}
